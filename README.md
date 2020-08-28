@@ -1,2 +1,2 @@
-# Bienvenido-
+# Bienvenido
 Desarrollador de Plataformas Empresariales
